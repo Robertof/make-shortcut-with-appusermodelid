@@ -14,8 +14,8 @@ A precompiled version of this tool can be found in the "Releases" page.
 ## Notice
 
 Most of the code which deals with low-level link creation comes from
-[an example published by Microsoft](https://code.msdn.microsoft.com/windowsdesktop/sending-toast-notifications-71e230a2/)
-on this subject. All rights for the code being used belong to the respective owners.
+[an example published by Microsoft](https://github.com/microsoft/Windows-classic-samples/tree/main/Samples/DesktopToasts)
+on this subject, published under MIT license. 
 
 ## Usage
 
